@@ -4,8 +4,7 @@
   "description": "",
   "main": "YoutubeApp.js",
   "scripts": {
-    "deploy": "gh-pages -to YoutubeApp.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",

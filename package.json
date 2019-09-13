@@ -1,8 +1,12 @@
 {
   "name": "second-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "YoutubeApp.js",
+  "description": "Youtube App",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
@@ -15,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/rafapaivadeandrade/YoutubeApp/issues"
   },
-  "homepage": "https://rafapaivadeandrade.github.io/YoutubeApp",
-  "dependencies": {
-    "gh-pages": "^2.1.1"
-  }
+  "homepage": "https://github.com/rafapaivadeandrade/YoutubeApp#readme"
 }

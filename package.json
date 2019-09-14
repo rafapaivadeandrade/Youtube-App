@@ -3,21 +3,21 @@
   "version": "1.0.0",
   "description": "Youtube App",
   "main": "index.js",
+  "homepage": "https://rafapaivadeandrade.github.io/Youtube-App",
   "dependencies": {
     "gh-pages": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafapaivadeandrade/YoutubeApp.git"
+    "url": "git+https://github.com/rafapaivadeandrade/Youtube-App.git"
   },
   "author": "Rafael",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rafapaivadeandrade/YoutubeApp/issues"
-  },
-  "homepage": "https://github.com/rafapaivadeandrade/YoutubeApp#readme"
+    "url": "https://github.com/rafapaivadeandrade/Youtube-App/issues"
+  }
 }
